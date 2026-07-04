@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yağmur Sesi",
+    "logo": "https://cdn.pixabay.com/audio/2024/04/13/06-24-11-437_200x200.jpg",
+    "mp3_url": "https://cdn.pixabay.com/audio/2026/05/25/audio_9e7464aa21.mp3"
+  },
+  {
+    "name": "Şömine Sesi",
+    "logo": "https://cdn.pixabay.com/audio/2025/11/19/19-08-06-437_200x200.png",
+    "mp3_url": "https://cdn.pixabay.com/audio/2025/04/29/audio_b0d27b76b4.mp3"
+  },
+  {
+    "name": "Orman Sesi",
+    "logo": "https://cdn.pixabay.com/audio/2025/11/19/19-08-06-437_200x200.png",
+    "mp3_url": "https://cdn.pixabay.com/audio/2026/05/21/audio_38bf17f819.mp3"
+  },
+  {
+    "name": "Piyano Sesi",
+    "logo": "https://cdn.pixabay.com/audio/2025/05/06/19-35-48-279_200x200.jpg",
+    "mp3_url": "https://cdn.pixabay.com/audio/2025/05/06/audio_f4cfdd4edc.mp3"
+  }
+]
